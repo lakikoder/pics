@@ -1,6 +1,8 @@
 import React from 'react'
 import SearchBar from './SearchBar.js'
 
+
+/** Dodat je komentar ispred definicije App komponente */
 class App extends React.Component {
     
     onSearchSubmit = (term) => {
